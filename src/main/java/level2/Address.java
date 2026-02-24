@@ -1,5 +1,5 @@
 package level2;
 
-interface Address {
+public interface Address {
     String format();
 }

@@ -1,5 +1,5 @@
 package level2;
 
-interface Phone {
+public interface Phone {
     String format();
 }

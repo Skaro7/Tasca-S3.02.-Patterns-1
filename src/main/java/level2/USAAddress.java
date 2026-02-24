@@ -1,6 +1,6 @@
 package level2;
 
-class USAAddress implements Address {
+public class USAAddress implements Address {
     private String street, city, stateZip;
 
     public USAAddress(String street, String city, String stateZip) {

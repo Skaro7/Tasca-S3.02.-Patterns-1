@@ -1,6 +1,6 @@
 package level2;
 
-class USAContactFactory implements ContactFactory{
+public class USAContactFactory implements ContactFactory{
     private String street, city, stateZip, phone;
 
     public USAContactFactory(String street, String city, String stateZip, String phone) {

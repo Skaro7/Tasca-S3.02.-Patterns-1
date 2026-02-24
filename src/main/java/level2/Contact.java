@@ -1,6 +1,6 @@
 package level2;
 
-class Contact {
+public class Contact {
     private Address address;
     private Phone phone;
 

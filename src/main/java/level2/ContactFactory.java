@@ -1,6 +1,6 @@
 package level2;
 
-interface ContactFactory {
+public interface ContactFactory {
     Address createAddress();
     Phone createPhone();
 }
