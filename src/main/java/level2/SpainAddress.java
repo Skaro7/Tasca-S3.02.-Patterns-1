@@ -13,6 +13,6 @@ public class SpainAddress implements Address {
 
     @Override
     public String format() {
-        return street + ", " + postalCode + " " + city + ", Spain";
+        return street + ", " + postalCode + " " + city;
     }
 }
